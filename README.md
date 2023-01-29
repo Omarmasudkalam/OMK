@@ -28,8 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarMasudKalam&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
  </a>
  | <a href="https://github.com/OmarMasudKalam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarMasudKalam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omar's github stats" /></a> | <a href="https://github.com/OmarMasudKalam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMasudKalam&layout=compact&theme=buefy&hide_border=true" /></a> |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 
 <br />
 <br />
